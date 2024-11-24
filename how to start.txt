@@ -1,0 +1,1 @@
+geth --http --http.addr 127.0.0.1 --http.port 8545 --http.corsdomain "*" --http.api web3,eth,net --syncmode light
